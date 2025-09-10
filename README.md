@@ -1,6 +1,6 @@
-# Voice Assistant Demo
+# Voice Assistant Event Organizer
 
-This is a demo AI voice assistant using:
+This is an AI voice assistant using:
 - Groq (LLaMA-3 free API) for reasoning
 - Whisper for STT
 - Coqui TTS for AI voice
@@ -13,4 +13,4 @@ This is a demo AI voice assistant using:
 1. Clone the repo
    ```bash
    git clone git@github.com:Konstantin-Krokhin/voice-assistant-event-organizer.git
-   cd voice-assistant-demo
+   cd voice-assistant-event-organizer
